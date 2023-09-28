@@ -7,12 +7,13 @@
 
 
 <p align="center">
-   <a href="https://github.com/afleones"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Self+Taught+Programmer;Back+End+Developer;3+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
-</p>
-
-<a href="https://komarev.com/ghpvc/?username=afleones">
+   <a href="https://github.com/afleones"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Self+Taught+Programmer;Back+End+Developer;3+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a><br>
+  <a href="https://komarev.com/ghpvc/?username=afleones">
   <img align="right" src="https://komarev.com/ghpvc/?username=afleones&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
+</p>
+
+
 
 <!-- Intro  -->
 <h3 align="center">
