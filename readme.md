@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/afleones"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Back%20End%20Developer;3%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+   <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;3 years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 
