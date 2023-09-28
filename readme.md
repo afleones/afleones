@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/afleones"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Back%20End%20Developer; 3years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/afleones"><[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Self+Taught+Programmer+Back+End+Developer+3+years+of+coding+experience;Always+learning+new+things)](https://git.io/typing-svg)></a>
 </p>
 
 
