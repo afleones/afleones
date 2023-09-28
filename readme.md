@@ -104,7 +104,7 @@
 
 ## Projects -
 [![iVote](https://github-readme-stats.vercel.app/api/pin/?username=afleones&repo=iVote&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/afleones/iVote)
-[![Login_Reyfals](https://github-readme-stats.vercel.app/api/pin/?username=afleones&repo=Login_Reyfals&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/afleones/Login_Reyfals)
+
 [![seguimiento](https://github-readme-stats.vercel.app/api/pin/?username=afleones&repo=seguimiento&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/afleones/seguimiento)
 [![sysVentas](https://github-readme-stats.vercel.app/api/pin/?username=afleones&repo=sysVentas&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/afleones/sysVentas)
 
@@ -135,4 +135,4 @@
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=afleones&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Andrés Graph](https://github-readme-activity-graph.vercel.app/graph?username=afleones&custom_title=Andrés%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
